@@ -1,0 +1,15 @@
+Today I learned about the WhatWeb tool in Linux.
+
+This tool is used during reconnaissance to identify technologies running behind a website.
+
+With a single command, it can detect:
+
+CMS
+Web servers
+Frameworks
+Libraries
+Other technologies
+
+I found it really useful because it shows how much information can be collected before testing a target further.
+
+This was another good step in learning Linux and cybersecurity basics 🔐
